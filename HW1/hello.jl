@@ -1,1 +1,2 @@
-println("Hello, World!")
+language = "Julia"
+println(language.*" says: ".*"Hello, World!")
